@@ -19,7 +19,7 @@ Moves entails in placing new pieces on the board; pieces slide downwards from up
 The winner is the first player who gets a straight line made with four own pieces and no gaps between them
 
 ## Download
-You can either download the [zip file](https://github.com/MiriamGaGuMuk/connect-4-React.git/master.zip) or use `git` to clone it down:
+You can either download the [zip file](https://github.com/MiriamGaGuMuk/connect-4-React/archive/master.zip) or use `git` to clone it down:
 ```
 git clone https://github.com/MiriamGaGuMuk/connect-4-React.git
 cd connect-4
