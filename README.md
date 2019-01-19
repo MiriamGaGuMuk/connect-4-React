@@ -35,6 +35,7 @@ npm install
 Once you have all the requirements fulfilled and dependancies installed, run the following command, which will transpile the server files then start up the local server:
 ```
 npm start
+```
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
